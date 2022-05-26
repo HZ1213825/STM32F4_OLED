@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "stm32f4xx.h": "c",
+        "oled.h": "c",
+        "fort.h": "c",
+        "math.h": "c",
+        "arm_math.h": "c",
+        "istream": "c",
+        "limits": "c",
+        "string": "c",
+        "xlocale": "c",
+        "xmemory0": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "cmath": "c",
+        "core_cm4.h": "c",
+        "memory": "c",
+        "streambuf": "c",
+        "cstddef": "c",
+        "system_error": "c",
+        "xiosbase": "c",
+        "iosfwd": "c",
+        "ostream": "c",
+        "tuple": "c",
+        "utility": "c",
+        "xlocnum": "c",
+        "*.rh": "c"
+    }
+}
